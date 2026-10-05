@@ -1,0 +1,60 @@
+commit aba7431cdddc655b8d80308599b48fea0c78de16 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 5fb3f41 3e10669
+Author: MrKentAkNFSmiths <your_email@example.com>
+Date:   Mon Oct 5 17:25:26 2026 +0300
+
+    Конфликт разрешен
+
+commit 3e106691751f32ff3889f67ae7b81ae67ce8befd
+Author: MrKentAkNFSmiths <your_email@example.com>
+Date:   Mon Oct 5 17:23:09 2026 +0300
+
+    Пытаюсь вызвать конфликт да
+
+commit 5fb3f417d8aea82d6bc99ce15b1ba536cb57e05b
+Author: MrKentAkNFSmiths <your_email@example.com>
+Date:   Mon Oct 5 17:22:32 2026 +0300
+
+    Пытаюсь вызвать конфликт
+
+commit 31235f7b1221ece3291375e65ca564958f40c059
+Author: MrKentAkNFSmiths <your_email@example.com>
+Date:   Mon Oct 5 17:19:47 2026 +0300
+
+    Conflict base was made 2
+
+commit b31b3371c117114eda54bc724dad9a6755579c63
+Author: MrKentAkNFSmiths <your_email@example.com>
+Date:   Mon Oct 5 17:17:23 2026 +0300
+
+    Conflict base was made 2
+
+commit eebe70f2129c4c1c15520989d1feeb5e3bd37349
+Author: MrKentAkNFSmiths <your_email@example.com>
+Date:   Mon Oct 5 17:15:27 2026 +0300
+
+    Conflict base was made
+
+commit 8d8b7aea62cdc3f7d1e4526206ee2747c028e8da
+Author: MrKentAkNFSmiths <your_email@example.com>
+Date:   Mon Oct 5 16:39:40 2026 +0300
+
+    добавить содержание 3-ей строки
+    
+    rebase conflict was fixed
+
+commit fea6ef5c729325979402c31bab5783fedb2c96ff (origin/feature-a, feature-a)
+Author: MrKentAkNFSmiths <your_email@example.com>
+Date:   Mon Oct 5 16:37:38 2026 +0300
+
+    добавить содержание 4-ей строки
+
+commit 7ddfdb1295481b50b6de782e4108794b8a3f3255
+Author: MrKentAkNFSmiths <your_email@example.com>
+Date:   Mon Oct 5 16:37:09 2026 +0300
+
+    добавить содержание 3-ей строки
+
+commit 2ceb1ca75c2c94c3b35a92347906892bf118059b
+Author: MrKentAkNFSmiths <your_email@example.com>
+Date:   Mon Oct 5 16:33:25 2026 +0300
